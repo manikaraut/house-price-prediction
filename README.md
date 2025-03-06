@@ -49,6 +49,7 @@ house_price_predction/
   - matplotlib
   - seaborn
   - scikit-learn
+  - streamlit
 
 ## Installation
 1. Clone the repository:

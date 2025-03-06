@@ -1,2 +1,4 @@
-env 
+.env 
 datasets/
+onehot_encoding.pkl/
+house_pred.pkl/
